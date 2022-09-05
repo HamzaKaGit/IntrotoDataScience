@@ -39,4 +39,4 @@ Data Science is the field of study which aims to extract insights and useful inf
 *	Python or R for Executing DS modeling. 
 
 #### 6.Databases
-*	How data base works, how to handle data base, how to get data out of data base. 
+*	How data base works, how to handle data base, how to get data out of data base.
