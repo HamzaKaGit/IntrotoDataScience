@@ -49,6 +49,7 @@ in order for Python to consider it as a `package.`
 Suppose we are developing a game. One possible organization of packages and modules could be as shown in the `figure` below.
 
 
+![Screenshot (264)](https://user-images.githubusercontent.com/81691323/189830165-0ab7267b-5426-49f2-a55b-c660024c7806.png)
 
 
 
